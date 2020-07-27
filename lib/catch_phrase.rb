@@ -1,3 +1,4 @@
 def catch_phrase
-  print phrase
+  puts phrase
+  return phrase
 end
