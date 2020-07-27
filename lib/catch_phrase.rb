@@ -1,4 +1,4 @@
 def catch_phrase
   puts phrase
-  return phrase
+  return catch_phrase
 end
